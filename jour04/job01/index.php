@@ -1,9 +1,9 @@
 <form method="get">  
-     Entrez votre Nom  <br>  
+     Entrez votre nom  <br>  
     <input type="text" name="username">  
-    <br>  Entrez votre Prénom  <br>  
+    <br>  Entrez votre prénom  <br>  
     <input type="text" name="firstname"> 
-    <br>  Entrez votre Email  <br>  
+    <br>  Entrez votre mail  <br>  
     <input type = "email" name = "email"> 
     <br>
     <br>
