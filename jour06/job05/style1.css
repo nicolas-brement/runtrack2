@@ -1,0 +1,46 @@
+*{
+    font-family: Avenir, sans-serif;
+    text-align: justify;
+    width: 500px;
+    height: 50%;
+    font-size: x-large;
+}
+
+body{
+    background: url("Brave\ {AcexOc}.jpeg") fixed no-repeat;
+    background-size: cover;
+    margin-left: 20em;
+    margin-top: 12em;
+}
+
+label {
+    margin-left: 140px;
+    color: white;
+    font-size: xx-large;
+    font: bold;
+    text-align: center;
+}
+select{
+    background: rgb(213,141,58);
+    background: radial-gradient(circle, rgba(213,141,58,1) 0%, rgba(233,53,53,1) 73%);
+    border-radius: 20px;
+}
+
+input{
+    background: rgb(213,141,58);
+    background: radial-gradient(circle, rgba(213,141,58,1) 0%, rgba(233,53,53,1) 73%);
+    border-radius: 20px;
+    text-align: center;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+input:hover {
+    -webkit-transform:scale(1.15);
+    transform:scale(1.15);
+}
+
+option {
+    text-align: center;
+}
+

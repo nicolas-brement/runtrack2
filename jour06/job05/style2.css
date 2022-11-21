@@ -1,0 +1,45 @@
+*{
+    font-family: Avenir, sans-serif;
+    text-align: justify;
+    width: 500px;
+    color: white;
+    height: 50%;
+    font-size: x-large;
+}
+
+body{
+    background: url("One\ piece\ manga.jpeg") fixed no-repeat;
+    background-size: cover;
+    margin-left: 20em;
+    margin-top: 12em;
+}
+
+label {
+    margin-left: 140px;
+    color: black;
+    font-size: xx-large;
+    font: bold;
+    text-align: center;
+}
+
+select{
+    background-color: black;
+    border-radius: 20px;
+}
+
+input{
+    background-color: black;
+    border-radius: 20px;
+    text-align: center;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+input:hover {
+    -webkit-transform:scale(1.15);
+    transform:scale(1.15);
+}
+
+option {
+    text-align: center;
+}
