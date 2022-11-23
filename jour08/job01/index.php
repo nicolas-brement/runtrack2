@@ -13,7 +13,7 @@ session_start();
 ?>
 
 <form method="post">
-<input type="submit" name="reset" value="Reset">
+<input type="submit" name="reset" value="Renitialiser le compteur">
 </form>
 
 
