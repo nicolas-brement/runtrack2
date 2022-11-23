@@ -7,9 +7,9 @@ if(!isset($_SESSION['name']) || isset($_POST['reset'])){
 ?>
 
 <form method="post">
-    Entrez votre prénom : <br>
-    <input type="text" name="name">
-    <input type="submit" value="Ajout"> <br>
+Entrez votre prénom : <br>
+<input type="text" name="name">
+<input type="submit" value="Ajout"> <br>
 </form>
 <form method="post">
 <input type="submit" name="reset" value="Renitialiser la liste">
