@@ -1,0 +1,1 @@
+SELECT prenom, nom, naissance FROM `etudiants` WHERE naissance > CURRENT_DATE - INTERVAL '24' YEAR
