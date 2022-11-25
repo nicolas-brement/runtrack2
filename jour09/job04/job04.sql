@@ -1,1 +1,1 @@
-SELECT nom, capacite FROM `salles` WHERE 1
+SELECT nom, capacite FROM `salles`
